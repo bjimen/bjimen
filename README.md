@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="200" height="128" alt="agahi" src="https://github.com/user-attachments/assets/2ee225e6-f9b9-459d-974f-9118671a661a" />
+
 
 <!--
 **bjimen/bjimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
