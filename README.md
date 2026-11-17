@@ -1,5 +1,14 @@
-<img width="200" height="128" alt="agahi" src="https://github.com/user-attachments/assets/2ee225e6-f9b9-459d-974f-9118671a661a" />
+<p align="center">
+  <img width="200" height="128" alt="agahi" src="https://github.com/user-attachments/assets/2ee225e6-f9b9-459d-974f-9118671a661a" />
+</p>
 
+Welcome! My name is Ben and...
+- I'm a CS student in my junior year
+- I became interested in programming by messing around making games through GameMaker tutorials
+- So far I've gained knowledge in C/C++, Python, and Java
+- At the moment I'm learning about relational databases and programming paradigms using SQLite and F# respectively
+- I'm currently beginning work on Wrapped.fm — an end-of-year music recap site in the vein of Spotify Wrapped but for Last.fm users
+Reach out to me on my socials if you want to get in touch :v
 
 <!--
 **bjimen/bjimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
