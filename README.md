@@ -8,6 +8,7 @@ Welcome! My name is Ben and...
 - So far I've gained knowledge in C/C++, Python, and Java
 - At the moment I'm learning about relational databases and programming paradigms using SQLite and F# respectively
 - I'm currently beginning work on Wrapped.fm — an end-of-year music recap site in the vein of Spotify Wrapped but for Last.fm users
+
 Reach out to me on my socials if you want to get in touch :v
 
 <!--
